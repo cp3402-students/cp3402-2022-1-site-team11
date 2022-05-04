@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Development of the new Townsville Jazz Club website will begin.
 
 All files are to be managed and version controlled via Github, begin by pulling files from the repository
