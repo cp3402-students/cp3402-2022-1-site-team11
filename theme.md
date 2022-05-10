@@ -1,1 +1,4 @@
-Start of Document
+Headings: Garamond
+Paragraphs:  Verdana
+
+Colour:
