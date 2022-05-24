@@ -6,7 +6,7 @@ In our group, we had different local setups for running WordPress. This was on a
 
 One hypervisor that was used was Mamp. Mamp was downloaded from https://www.mamp.info/en/downloads/  
 After that, the surver was set up, wordpress was installed, and the website was created.
-Docker was also used. XAMPP was another environment used by one member for local development. Some members worked directly on the staging site since their tasks were more easily implemented that way.
+Docker and XAMPP are other environments used by other members for local development. Some members worked directly on the staging site since their tasks were more easily implemented that way.
 
 A trello board was created to keep track of all tasks that need doing and manage the workflow. Tasks were assigned to each member at meetings to ensure that everyone knew what they had to do by the next meeting.
 
@@ -14,4 +14,4 @@ In local development the only automation done was using grunt for easy css editi
 
 The staging site was set up on cloudaccess. Using FTP all files could be easily uploaded to the site for testing. The FTP info is easily visible on the cloudaccess control panel for ease of use.
    
-Once things were finalised on the staging site, the plugin all-in-one WP migration was used to transfer everything over to the production site hosted on Azure. The transfer limit on this plugin is small so only the database and plugins were directly migrated this way. Media files were uploaded directly to Azure through the wordpress console.
+Once things were finalised on the staging site, the plugin all-in-one WP migration was used to transfer everything over to the production site hosted on Azure. The transfer limit on this plugin is small so only the database and plugins were directly migrated this way. Media files were uploaded directly to Azure through the wordpress console. 
