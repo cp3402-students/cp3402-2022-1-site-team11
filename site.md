@@ -2,3 +2,4 @@ Most the of site uses the standard wordpress functions without anything too comp
 
 All forms on the site were created with wpforms and the image galleries on the gallery page were created with nextgen gallery. These plugins are simple to use and new forms/galleries can be added as needed. 
 
+The calendar on the events page is currently hardcoded and needs ot be updated manually. An automated version was considered but could not be successfully implemented in time.
