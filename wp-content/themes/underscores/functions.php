@@ -154,7 +154,6 @@ add_action( 'wp_enqueue_scripts', 'underscores_scripts' );
  */
 require get_template_directory() . '/inc/custom-header.php';
 
-
 /**
  * Custom template tags for this theme.
  */
