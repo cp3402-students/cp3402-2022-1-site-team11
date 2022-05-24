@@ -1,1 +1,3 @@
-Start of Document
+Most the of site uses the standard wordpress functions. All pages are pages and top level pages automatically appear in the header menu. Since the site is small they were left uncategorisedb tu that could be done in the future if the site grows large enough to justify.
+
+All forms on the site were created with wpforms, the gallery page is created with nextgen gallery and the event calendar with...
