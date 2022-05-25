@@ -18,7 +18,7 @@ main {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
-  font-family: "Garamond";
+  font-family: "arial";
   font-size: 18px;
   clear: both;
 }
@@ -47,7 +47,7 @@ pre {
 
 a {
   background-color: transparent;
-  color: black;
+  color: red;
 }
 a:hover {
   color: blue;
@@ -129,7 +129,7 @@ button {
   -webkit-appearance: button;
   color: #404040;
   line-height: 1.5;
-  font-family: "Garamond";
+  font-family: "arial";
   font-size: 18px;
   clear: both;
   border: 1px solid;
@@ -312,31 +312,31 @@ template {
 }
 
 h2 {
-  font-family: "Garamond";
+  font-family: "arial";
   font-size: 18px;
   clear: both;
 }
 
 h3 {
-  font-family: "Garamond";
+  font-family: "arial";
   font-size: 18px;
   clear: both;
 }
 
 h4 {
-  font-family: "Garamond";
+  font-family: "arial";
   font-size: 18px;
   clear: both;
 }
 
 h5 {
-  font-family: "Garamond";
+  font-family: "arial";
   font-size: 18px;
   clear: both;
 }
 
 h6 {
-  font-family: "Garamond";
+  font-family: "arial";
   font-size: 18px;
   clear: both;
 }
@@ -346,7 +346,7 @@ h1.entry-title {
 }
 
 p {
-  font-family: "calibri";
+  font-family: "Georgia";
   font-size: 18px;
   margin-bottom: 1.5em;
 }
